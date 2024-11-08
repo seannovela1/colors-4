@@ -6,3 +6,23 @@ body {
   padding: 0;
   color: #202124;
 }
+a {
+    color: #1a73e8;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+  }
+
+  /* Header */
+header {
+    background-color: #f1f1f1;
+    padding: 20px 0;
+  }
+  nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+  }
