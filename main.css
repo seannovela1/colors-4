@@ -125,4 +125,20 @@ header {
     margin-bottom: 30px;
     color: #202124;
   }
+
+  .tech-specs ul {
+    list-style: none;
+    font-size: 1.25rem;
+  }
+
+  .tech-specs li {
+    margin: 10px 0;
+  }
+  /* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f1f1f1;
+    font-size: 0.875rem;
+  }
   
